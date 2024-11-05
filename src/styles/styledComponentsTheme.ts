@@ -42,33 +42,33 @@ export const details = {
 };
 
 export const rainbowColors = [
-  '#fdccd3', // pink
-  '#fca09a', // red
-  '#ffcc9e', // yellow
-  '#98ddad', // green
-  '#81d7ec', // blue
-  '#91C1ED', // blurple
-  '#a0aaed', // purple
+  '#15abfa', // pink
+  '#15abfa', // red
+  '#15abfa', // yellow
+  '#15abfa', // green
+  '#15abfa', // blue
+  '#15abfa', // blurple
+  '#15abfa', // purple
 ];
 
 export const rainbowBGColors = [
-  '#fdccd3', // pink
-  '#FED4D1', // red
-  '#fcead9', // yellow-orange
-  '#dcf0df', // green
-  '#d3edf6', // blue
-  '#baccf2', // blurple
-  '#a0aaed', // purple
+  '#15abfa', // pink
+  '#15abfa', // red
+  '#15abfa', // yellow-orange
+  '#15abfa', // green
+  '#15abfa', // blue
+  '#15abfa', // blurple
+  '#15abfa', // purple
 ];
 
 export const rainbowLightColors = [
-  '#fef2f4', // pink
-  '#fdf8f7', // red
-  '#FFF2E6', // yellow-orange
-  '#e5f6ea', // green
-  '#dff5fa', // blue
-  '#E3EFFA', // blurple
-  '#e7e9fa', // purple
+  '#15abfa', // pink
+  '#15abfa', // red
+  '#15abfa', // yellow-orange
+  '#15abfa', // green
+  '#15abfa', // blue
+  '#15abfa', // blurple
+  '#15abfa', // purple
 ];
 
 export const rainbow = rainbowColors.join(', ');

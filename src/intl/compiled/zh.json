@@ -36,7 +36,7 @@
   "+L0IkF": [
     {
       "type": 0,
-      "value": "第 2 步：使用 Ethereum Foundation 存款工具生成存款密码"
+      "value": "第 2 步：使用 DaVinci Foundation 存款工具生成存款密码"
     }
   ],
   "+UUcBt": [
@@ -1712,7 +1712,7 @@
   "Ad61gz": [
     {
       "type": 0,
-      "value": "请确认您正在从 Ethereum Foundation GitHub 的官方帐户下载，验证网址："
+      "value": "请确认您正在从 DaVinci Foundation GitHub 的官方帐户下载，验证网址："
     },
     {
       "type": 1,
@@ -5678,7 +5678,7 @@
   "gQkd2y": [
     {
       "type": 0,
-      "value": "使用 Ethereum Foundation 存款工具生成存款密钥"
+      "value": "使用 DaVinci Foundation 存款工具生成存款密钥"
     }
   ],
   "gVC0Wl": [
@@ -7818,7 +7818,7 @@
     },
     {
       "type": 1,
-      "value": "ethereumorg"
+      "value": "DaVinciorg"
     },
     {
       "type": 0,

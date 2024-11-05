@@ -1096,6 +1096,9 @@
   "JMcBLZ": {
     "message": "Outstanding deposits ({remainingTxCount})"
   },
+  "JNfa+M": {
+    "message": "Become a validator and help secure the future of DaVinci"
+  },
   "JPT/TK": {
     "message": "4. Avoid phishing"
   },
@@ -1872,6 +1875,9 @@
   "ZTo0Fl": {
     "message": "Why is there a wait?"
   },
+  "ZhaG9M": {
+    "message": "Become a validator and help secure the future of DaVinci."
+  },
   "ZsXdlw": {
     "message": "Erigon installation documentation"
   },
@@ -1986,14 +1992,8 @@
   "cJX99/": {
     "message": "Check your favorite Beacon Chain block explorer:"
   },
-  "cPsIkp": {
-    "message": "Become a validator and help secure the future of Ethereum."
-  },
   "cRzxes": {
     "message": "Current APR"
-  },
-  "cU/ZP6": {
-    "message": "Ethereum uses proof-of-stake to reach consensus."
   },
   "cav520": {
     "message": "Download from GitHub"
@@ -2396,6 +2396,9 @@
   },
   "kSt9db": {
     "message": "As of the Shanghai/Capella upgrade withdrawals have been enabled on the Beacon Chain, with the inclusion of {eip}. This Ethereum Improvement Proposal enables rewards to be automatically withdrawn to the execution layer, and also provides a way for exited validators to unlock their entire balance—no gas required."
+  },
+  "kTBdEi": {
+    "message": "DaVinci uses proof-of-stake to reach consensus."
   },
   "kTt/ND": {
     "message": "Russian"
@@ -2971,9 +2974,6 @@
   },
   "vEJDo8": {
     "message": "Protect your funds using monitoring software, and learn how to handle different real world scenarios."
-  },
-  "vIF140": {
-    "message": "Become a validator and help secure the future of Ethereum"
   },
   "vJez0K": {
     "message": "Proceed with caution. Our on-chain data source is down and we are unable to flag any double deposits."

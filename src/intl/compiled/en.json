@@ -2887,6 +2887,12 @@
       "value": ")"
     }
   ],
+  "JNfa+M": [
+    {
+      "type": 0,
+      "value": "Become a validator and help secure the future of DaVinci"
+    }
+  ],
   "JPT/TK": [
     {
       "type": 0,
@@ -4927,6 +4933,12 @@
       "value": "Why is there a wait?"
     }
   ],
+  "ZhaG9M": [
+    {
+      "type": 0,
+      "value": "Become a validator and help secure the future of DaVinci."
+    }
+  ],
   "ZsXdlw": [
     {
       "type": 0,
@@ -5195,22 +5207,10 @@
       "value": "Check your favorite Beacon Chain block explorer:"
     }
   ],
-  "cPsIkp": [
-    {
-      "type": 0,
-      "value": "Become a validator and help secure the future of Ethereum."
-    }
-  ],
   "cRzxes": [
     {
       "type": 0,
       "value": "Current APR"
-    }
-  ],
-  "cU/ZP6": [
-    {
-      "type": 0,
-      "value": "Ethereum uses proof-of-stake to reach consensus."
     }
   ],
   "cav520": [
@@ -6263,6 +6263,12 @@
     {
       "type": 0,
       "value": ". This Ethereum Improvement Proposal enables rewards to be automatically withdrawn to the execution layer, and also provides a way for exited validators to unlock their entire balance—no gas required."
+    }
+  ],
+  "kTBdEi": [
+    {
+      "type": 0,
+      "value": "DaVinci uses proof-of-stake to reach consensus."
     }
   ],
   "kTt/ND": [
@@ -7885,12 +7891,6 @@
     {
       "type": 0,
       "value": "Protect your funds using monitoring software, and learn how to handle different real world scenarios."
-    }
-  ],
-  "vIF140": [
-    {
-      "type": 0,
-      "value": "Become a validator and help secure the future of Ethereum"
     }
   ],
   "vJez0K": [

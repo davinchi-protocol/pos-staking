@@ -26,7 +26,7 @@ export const pageContent = {
     content: (
       <>
         <Text size="medium" className="my10">
-          <FormattedMessage defaultMessage="Ethereum uses proof-of-stake to reach consensus." />
+          <FormattedMessage defaultMessage="DaVinci uses proof-of-stake to reach consensus." />
         </Text>
         <Text size="medium" className="my10">
           <FormattedMessage
