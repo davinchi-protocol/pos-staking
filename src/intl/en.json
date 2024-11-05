@@ -173,9 +173,6 @@
   "17Epwt": {
     "message": "{TESTNET_LAUNCHPAD_NAME} testnet"
   },
-  "192AR6": {
-    "message": "More on staking"
-  },
   "19o6KO": {
     "message": "When can I withdraw my funds, and what’s the difference between exiting and withdrawing?"
   },
@@ -193,9 +190,6 @@
   },
   "1PPGHb": {
     "message": "I've verified my server time matches the wall clock."
-  },
-  "1QW89r": {
-    "message": "More stats"
   },
   "1UmyRL": {
     "message": "latest stable software release"
@@ -276,9 +270,6 @@
   },
   "2t/3ab": {
     "message": "The other file you just generated is {depositDataJson}. This file contains the public key(s) associated with your validator(s); You will need to upload this in the next step."
-  },
-  "32rBNK": {
-    "message": "Terms of Service"
   },
   "36P4ra": {
     "message": "Over time, your balance will decrease as you are penalized for not participating in the consensus process. When your balance reaches {EJECTION_PRICE} ETH, you will be automatically exited from the validator set."
@@ -2535,9 +2526,6 @@
   "mloLQ5": {
     "message": "All stakers must operate an execution client with their consensus client."
   },
-  "mm+OKT": {
-    "message": "The Ethereum roadmap"
-  },
   "mpmFDY": {
     "message": "No pending deposits"
   },
@@ -3173,9 +3161,6 @@
   },
   "zGkAVo": {
     "message": "At the other end of the spectrum, if your balance is closer to 31 ETH, it’s probably not worth adding the extra ETH required to get back to 32."
-  },
-  "zJicsO": {
-    "message": "Staking economics"
   },
   "zbEBi9": {
     "description": "{mainnet} shows '--config mainnet' terminal command",

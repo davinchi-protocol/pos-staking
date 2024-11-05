@@ -1,12 +1,10 @@
 import React from 'react';
 import styled from 'styled-components';
 import ScrollAnimation from 'react-animate-on-scroll';
-import { FormattedMessage, useIntl } from 'react-intl';
+import { FormattedMessage } from 'react-intl';
 import { Heading } from '../../../components/Heading';
 import { Text } from '../../../components/Text';
-import { Link } from '../../../components/Link';
-import { Button } from '../../../components/Button';
-import { BEACONCHAIN_URL, TICKER_NAME } from '../../../utils/envVars';
+import { TICKER_NAME } from '../../../utils/envVars';
 
 //
 // Styled Components
@@ -57,11 +55,6 @@ const CardContainer = styled.div`
   }
 `;
 
-const ButtonContainer = styled.div`
-  display: flex;
-  justify-content: center;
-`;
-
 export type NetworkState = {
   amountEth: string;
   apr: string;
@@ -75,7 +68,6 @@ export type NetworkState = {
 export const NetworkStatus: React.FC<{
   state: NetworkState;
 }> = ({ state }): JSX.Element | null => {
-  const { formatMessage } = useIntl();
   const [m, setM] = React.useState<boolean>((window as any).mobileCheck());
   const { amountEth, apr, totalValidators, status } = state;
 
@@ -144,15 +136,6 @@ export const NetworkStatus: React.FC<{
               </Text>
             </Card>
           </CardContainer>
-          <ButtonContainer className="pt40">
-            <Link isTextLink={false} to={BEACONCHAIN_URL}>
-              <Button
-                fullWidth
-                width={m ? undefined : 400}
-                label={formatMessage({ defaultMessage: 'More stats' })}
-              />
-            </Link>
-          </ButtonContainer>
         </Content>
       </ScrollAnimation>
     </Container>

@@ -2,7 +2,6 @@ import React from 'react';
 import styled from 'styled-components';
 import ScrollAnimation from 'react-animate-on-scroll';
 import { FormattedMessage, useIntl } from 'react-intl';
-import { Button } from '../../../components/Button';
 import { Heading } from '../../../components/Heading';
 import { routesEnum } from '../../../Routes';
 import { Link } from '../../../components/Link';
@@ -33,14 +32,7 @@ const Subtitle = styled.p`
   font-size: 20px;
   margin-bottom: 32px;
 `;
-
-const ButtonContainer = styled.div`
-  display: flex;
-  justify-content: center;
-`;
-
 export const SignupSteps = (): JSX.Element => {
-  const m: boolean = (window as any).mobileCheck();
   const { formatMessage } = useIntl();
   return (
     <Container className="py100">
@@ -161,21 +153,6 @@ export const SignupSteps = (): JSX.Element => {
           </Step>
         </ScrollAnimation>
       </StepsContainer>
-      <ScrollAnimation animateIn="fadeIn" animateOnce delay={450}>
-        <ButtonContainer className="pt100">
-          <Link to={routesEnum.acknowledgementPage}>
-            <Button
-              rainbow
-              className="m-auto"
-              fullWidth
-              width={m ? undefined : 400}
-              label={formatMessage({
-                defaultMessage: 'Become a validator',
-              })}
-            />
-          </Link>
-        </ButtonContainer>
-      </ScrollAnimation>
     </Container>
   );
 };

@@ -465,12 +465,6 @@
       "value": " testnet"
     }
   ],
-  "192AR6": [
-    {
-      "type": 0,
-      "value": "More on staking"
-    }
-  ],
   "19o6KO": [
     {
       "type": 0,
@@ -505,12 +499,6 @@
     {
       "type": 0,
       "value": "I've verified my server time matches the wall clock."
-    }
-  ],
-  "1QW89r": [
-    {
-      "type": 0,
-      "value": "More stats"
     }
   ],
   "1UmyRL": [
@@ -719,12 +707,6 @@
     {
       "type": 0,
       "value": ". This file contains the public key(s) associated with your validator(s); You will need to upload this in the next step."
-    }
-  ],
-  "32rBNK": [
-    {
-      "type": 0,
-      "value": "Terms of Service"
     }
   ],
   "36P4ra": [
@@ -6639,12 +6621,6 @@
       "value": "All stakers must operate an execution client with their consensus client."
     }
   ],
-  "mm+OKT": [
-    {
-      "type": 0,
-      "value": "The Ethereum roadmap"
-    }
-  ],
   "mpmFDY": [
     {
       "type": 0,
@@ -8365,12 +8341,6 @@
     {
       "type": 0,
       "value": "At the other end of the spectrum, if your balance is closer to 31 ETH, it’s probably not worth adding the extra ETH required to get back to 32."
-    }
-  ],
-  "zJicsO": [
-    {
-      "type": 0,
-      "value": "Staking economics"
     }
   ],
   "zbEBi9": [
